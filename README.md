@@ -29,3 +29,7 @@ To get started with this project, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+
+###side note
+
+this project currently not completed
