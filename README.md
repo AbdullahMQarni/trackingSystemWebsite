@@ -21,7 +21,7 @@ This project was created as part of Maximilian's course to learn React. The main
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/your-username/expense-tracking-system.git](https://github.com/AbdullahMQarni/trackingSystemWebsite.git)`
+1. Clone the repository: `git clone https://github.com/AbdullahMQarni/trackingSystemWebsite.git`
 2. Navigate to the project directory: `cd trackingSystemWebsite`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
