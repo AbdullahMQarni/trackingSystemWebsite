@@ -8,7 +8,6 @@ This project was created as part of Maximilian's course to learn React. The main
 - Add new expenses with details such as date, description, and amount
 - Categorize expenses for better organization
 - View and filter expenses based on categories or specific time periods
-- Visualize expense data with charts and graphs
 
 ## Technologies Used
 
