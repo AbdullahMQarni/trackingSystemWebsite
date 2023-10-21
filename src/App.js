@@ -1,5 +1,6 @@
 import './index.css'
 import ExpenseItems from './component/ExpenseItems';
+import Card from './component/Card'
 
 function App() {
 
@@ -27,27 +28,30 @@ function App() {
   return (
     <>
       <h1>hello world, lets get started</h1>
-      <div className="center">
-        <div className="box">
-          <ExpenseItems
-            title={expense[0].title}
-            amount={expense[0].amount}
-            date={expense[0].date}
-          ></ExpenseItems>
+      <Card>
+        <div className="center">
+          <div className="box">
+            <ExpenseItems
+              title={expense[0].title}
+              amount={expense[0].amount}
+              date={expense[0].date}
+            ></ExpenseItems>
 
-          <ExpenseItems
-            title={expense[1].title}
-            amount={expense[1].amount}
-            date={expense[1].date}
-          ></ExpenseItems>
+            <ExpenseItems
+              title={expense[1].title}
+              amount={expense[1].amount}
+              date={expense[1].date}
+            ></ExpenseItems>
 
-          <ExpenseItems
-            title={expense[2].title}
-            amount={expense[2].amount}
-            date={expense[2].date}
-          ></ExpenseItems>
+            <ExpenseItems
+              title={expense[2].title}
+              amount={expense[2].amount}
+              date={expense[2].date}
+            ></ExpenseItems>
+          </div>
         </div>
-      </div>
+      </Card>
+
     </>
   );
 }
