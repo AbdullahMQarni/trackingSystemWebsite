@@ -32,4 +32,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## side note
 
-this project is currently not completed
+- this project is currently not completed
+- working on composition and children porps
